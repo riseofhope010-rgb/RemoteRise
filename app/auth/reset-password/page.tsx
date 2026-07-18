@@ -1,4 +1,4 @@
-import { updatePassword } from '\''../actions'\''
+import { updatePassword } from '../actions'
 
 export default function ResetPasswordPage() {
   return (
